@@ -1,6 +1,6 @@
 /*---------------------------------------------------CRAZY PIZZA API--------------------------------------- */
 /*
-@author: Erico Fernandes Nunes
+Author: Erico Fernandes Nunes
 description: Exerciting my studies on api/promises and async/await
 */
 //test location fake location
