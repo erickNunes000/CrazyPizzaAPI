@@ -1,7 +1,7 @@
 /*---------------------------------------------------CRAZY PIZZA API--------------------------------------- */
 /*
 Author: Erico Fernandes Nunes
-description: Exerciting my studies on api/promises and async/await
+Description: Exerciting my studies on api/promises and async/await
 */
 //test location fake location
 let testLocation = {
