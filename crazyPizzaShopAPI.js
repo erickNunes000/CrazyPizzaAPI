@@ -59,7 +59,7 @@ let pizzaShop = async (givenId)=>{
 /*--------------------------------------------------IMPLEMENTING API---------------------------------------- */
 //LINKS
 let source = "https://crazyPizza/api/nearbyPizzaShop/searchAPI.com"//SEARCHING FOR A NEARBY PIZZA SHOP
-let source2 = "https://crazyPizza/api/PizzaShop/searchAPI/id=456a.com"//LISTING MENU GIVEN A PIZZA ID
+let source2 = "https://crazyPizza/api/PizzaShop/searchAPI/id=456a.com"//LISTING MENU GIVEN A PIZZA ID. IN THIS CASE - id:"456a"
 //FETCHING DATA
 let seekApi = async(url)=>{
   return new Promise((resolve, reject)=>{
